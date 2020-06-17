@@ -6,6 +6,10 @@ load: POSTWORLD
 author: Wertzui123
 description: A simple rename plugin by Wertzui123
 website: https://github.com/Wertzui123/RenameItems
+command:
+ renameitems:
+  usage: /rename [name]
+  aliases: ['re']
 permissions:
  renameitems:
   default: false
